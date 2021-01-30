@@ -23,5 +23,14 @@ namespace Phonebook
                 System.Console.WriteLine(name);
             }
         }
+        public string toString()
+        {
+            string returnString = "";
+            foreach (var name in PhoneMap)
+            {
+                returnString += name;
+            }
+            return returnString;
+        }
     }
 }
