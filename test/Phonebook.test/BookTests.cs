@@ -9,11 +9,11 @@ namespace Phonebook.test
         public void AddPhonenumber()
         {
             Book phonebook = new Book();
-            string expected = "cool";
+            string expected = "01230123";
 
-            phonebook.AddPhonenumber("Robert", "cool");
+            phonebook.AddPhonenumber("Robert", "01230123");
 
-            Assert.Equal(expected, "cool");
+            Assert.Equal(expected, phonebook.PhoneMap["Robert"]);
         }
     }
 }

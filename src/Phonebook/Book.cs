@@ -13,7 +13,7 @@ namespace Phonebook
 
         public void AddPhonenumber(string name, string phonenumber)
         {
-            PhoneMap[name] = phonenumber;
+            PhoneMap.Add(name, phonenumber);
         }
 
         public void printNumbers()
