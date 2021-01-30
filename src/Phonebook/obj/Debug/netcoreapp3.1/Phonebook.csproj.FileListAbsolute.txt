@@ -1,0 +1,13 @@
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.exe
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.deps.json
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.json
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.dev.json
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.dll
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.pdb
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.csprojAssemblyReference.cache
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfoInputs.cache
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfo.cs
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.csproj.CoreCompileInputs.cache
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.dll
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.pdb
+D:\Felix\Jobb\Programmeringsprojekt\phonebook\src\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.genruntimeconfig.cache
